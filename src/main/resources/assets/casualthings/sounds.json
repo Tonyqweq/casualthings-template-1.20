@@ -1,0 +1,49 @@
+{
+  "prospector_call": {
+    "subtitle": "sounds.casualthings.prospector_call",
+    "sounds": [
+      "casualthings:prospector_call"
+    ]
+  },
+  "block_break": {
+    "subtitle": "sounds.casualthings.block_break",
+    "sounds": [
+      "casualthings:block_break"
+    ]
+  },
+  "block_place": {
+    "subtitle": "sounds.casualthings.block_place",
+    "sounds": [
+      "casualthings:block_place"
+    ]
+  },
+  "block_hit": {
+    "subtitle": "sounds.casualthings.block_hit",
+    "sounds": [
+      "casualthings:block_hit"
+    ]
+  },
+  "block_fall": {
+    "subtitle": "sounds.casualthings.block_fall",
+    "sounds": [
+      "casualthings:block_fall"
+    ]
+  },
+  "block_step": {
+    "subtitle": "sounds.casualthings.block_step",
+    "sounds": [
+      "casualthings:block_step"
+    ]
+  },
+
+  "aaa_cd_call": {
+    "sounds": [
+      {
+        "name":"casualthings:mhy1",
+        "stream":"true"
+      }
+    ]
+
+  }
+
+}

@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "casualthings",
+	"version": "${version}",
+	"name": "Casual Things",
+	"description": "我制作的第一个模组",
+	"authors": [
+		"Tonyqwe!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/casualthings/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.bessson.casualthings.CasualThings"
+		],
+		"client": [
+			"com.bessson.casualthings.CasualThingsClient"
+		],
+		"fabric-datagen": [
+			"com.bessson.casualthings.CasualThingsDataGenerator"
+		]
+	},
+	"mixins": [
+		"casualthings.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.20",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

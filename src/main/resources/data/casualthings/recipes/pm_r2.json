@@ -1,0 +1,12 @@
+{
+  "type": "casualthings:polishing_machine",
+  "ingredients" :[
+  {
+    "item": "minecraft:stone"
+  }
+],
+  "output":{
+  "item": "casualthings:aaa_cd",
+    "count": 1
+}
+}

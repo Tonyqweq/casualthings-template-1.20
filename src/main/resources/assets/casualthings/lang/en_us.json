@@ -1,0 +1,69 @@
+{
+  "item.casualthings.chicken_skin": "Chicken skin",
+  "item.casualthings.chopped_chicken_skin": "Chopped chicken skin",
+  "item.casualthings.cooked_chopped_chicken_skin": "Cooked chopped chicken skin",
+  "item.casualthings.onion": "Onion",
+  "item.casualthings.onion_seed": "Onion seed",
+  "item.casualthings.corn": "Corn",
+  "item.casualthings.corn_seed": "Corn seed",
+  "item.casualthings.grilled_corn": "Grilled corn",
+  "item.casualthings.chicken_jewel": "Chicken jewel",
+  "item.casualthings.prospector": "Prospector",
+  "item.casualthings.phoenix_feather": "Phoenix Feather",
+  "item.casualthings.aaa_cd": "原色",
+
+
+  "item.casualthings.chicken_jewel_sword": "Chicken jewel sword",
+  "item.casualthings.chicken_jewel_pickaxe": "Chicken jewel pickaxe",
+  "item.casualthings.chicken_jewel_axe": "Chicken jewel axe",
+  "item.casualthings.chicken_jewel_shovel": "Chicken jewel shovel",
+  "item.casualthings.chicken_jewel_hoe": "Chicken jewel hoe",
+  "item.casualthings.magic_scissors": "Magic scissors",
+
+  "item.casualthings.chicken_jewel_helmet": "Chicken jewel helmet",
+  "item.casualthings.chicken_jewel_chestplate": "Chicken jewel chestplate",
+  "item.casualthings.chicken_jewel_leggings": "Chicken jewel leggings",
+  "item.casualthings.chicken_jewel_boots": "Chicken jewel boots",
+
+
+
+
+
+  "block.casualthings.chicken_ore": "Chicken ore",
+  "block.casualthings.chicken_skin_block": "Chicken skin block",
+  "block.casualthings.jumpblock": "jumpblock",
+  "block.casualthings.chicken_brick": "Chicken brick",
+
+  "block.casualthings.chicken_brick_slab": "Chicken brick slab",
+  "block.casualthings.chicken_brick_door": "Chicken brick door",
+  "block.casualthings.chicken_brick_stair": "Chicken brick stair",
+  "block.casualthings.chicken_brick_button": "Chicken brick button",
+  "block.casualthings.chicken_brick_fence": "Chicken brick fence",
+  "block.casualthings.chicken_brick_pressure_plate": "Chicken brick pressure plate",
+  "block.casualthings.chicken_brick_fence_gate": "Chicken brick fence gate",
+  "block.casualthings.chicken_brick_wall": "Chicken brick wall",
+  "block.casualthings.chicken_brick_trapdoor": "Chicken brick trapdoor",
+  "block.casualthings.polishing_machine": "完全不会",
+
+
+
+
+  "itemGroup.casual_group": "Casual Things",
+
+  "entity.minecraft.villager.chicken_jewel_master": "傻子",
+  "entity.casualthings.tiger": "奇奇怪怪",
+
+  "item.casualthings.prospector.tooltip": "他可以探矿",
+  "item.casualthings.phoenix_feather.tooltip": "右键点击获得强力效果",
+
+  "sounds.casualthings.prospector_call": "大叫",
+  "sounds.casualthings.block_break": "破坏114514",
+  "sounds.casualthings.block_place": "放置114514",
+  "sounds.casualthings.block_hit": "打击114514",
+  "sounds.casualthings.block_fall": "坠落114514",
+  "sounds.casualthings.block_step": "行走114514",
+
+
+  "item.casualthings.aaa_cd.desc": "原色"
+
+}
