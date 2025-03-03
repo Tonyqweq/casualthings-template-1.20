@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "!": {
+      "item": "minecraft:diamond"
+    },
+    "#": {
+      "item": "casualthings:chicken_jewel"
+    },
+    "?": {
+      "item": "minecraft:ghast_tear"
+    },
+    "@": {
+      "item": "minecraft:feather"
+    }
+  },
+  "pattern": [
+    "#!#",
+    "?@?",
+    "#!#"
+  ],
+  "result": {
+    "item": "casualthings:phoenix_feather"
+  },
+  "show_notification": true
+}

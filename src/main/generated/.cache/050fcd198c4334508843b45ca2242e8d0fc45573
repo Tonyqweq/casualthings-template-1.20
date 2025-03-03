@@ -1,0 +1,10 @@
+// 1.20	2025-03-02T15:19:56.5828242	Casual Things/Tags for minecraft:block
+58e5d73ee6a6519054cbafd03ac5bf3e00e09443 data\fabric\tags\blocks\needs_tool_level_4.json
+4640894455bd716cf2abbfbf98adec110b39f8fa data\minecraft\tags\blocks\walls.json
+c3ff412e79a3d6d9d66ff0ea7d65d39427196347 data\minecraft\tags\blocks\mineable\pickaxe.json
+21fa3a1031baaea5f7778eb37dac31dcfc3fe97d data\minecraft\tags\blocks\mineable\shovel.json
+5ad6f1185dd83a378ec3ae60520e2ddc8eae930c data\minecraft\tags\blocks\needs_stone_tool.json
+3fb5d15752de1eda807c3b7a73a333259b8c2e17 data\minecraft\tags\blocks\fence_gates.json
+dc0273146050dcdd53bc8acc06da315fd0fa6721 data\fabric\tags\blocks\needs_tool_level_0.json
+bea2b4e66aada869a0fd6d8ef0f4b5ef95dc383c data\minecraft\tags\blocks\fences.json
+6cbf569e2cdc2507108e1ef9224ba77bdd1490aa data\casualthings\tags\blocks\prospector_list.json

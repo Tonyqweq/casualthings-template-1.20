@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "casualthings:chicken_jewel_helmet",
+    "casualthings:chicken_jewel_chestplate",
+    "casualthings:chicken_jewel_leggings",
+    "casualthings:chicken_jewel_boots"
+  ]
+}

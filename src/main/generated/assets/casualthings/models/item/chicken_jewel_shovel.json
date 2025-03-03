@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "casualthings:item/chicken_jewel_shovel"
+  }
+}

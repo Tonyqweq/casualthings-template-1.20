@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "casualthings:chicken_jewel_poi",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_top_right_open",
+  "textures": {
+    "bottom": "casualthings:block/chicken_brick_door_bottom",
+    "top": "casualthings:block/chicken_brick_door_top"
+  }
+}

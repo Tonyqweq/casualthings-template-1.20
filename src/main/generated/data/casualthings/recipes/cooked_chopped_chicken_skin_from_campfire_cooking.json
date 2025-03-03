@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "food",
+  "cookingtime": 600,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "casualthings:chopped_chicken_skin"
+  },
+  "result": "casualthings:cooked_chopped_chicken_skin"
+}

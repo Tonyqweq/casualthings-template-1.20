@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "cooked_chopped_chicken_skin",
+  "ingredient": {
+    "item": "casualthings:chopped_chicken_skin"
+  },
+  "result": "casualthings:cooked_chopped_chicken_skin"
+}
