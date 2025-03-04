@@ -2,6 +2,7 @@ package com.bessson.casualthings;
 
 import com.bessson.casualthings.block.ModBlocks;
 import com.bessson.casualthings.block.entity.ModBlockEntities;
+
 import com.bessson.casualthings.entity.ModEntities;
 import com.bessson.casualthings.entity.custom.TigerEntity;
 import com.bessson.casualthings.item.ModItemGroup;
@@ -9,6 +10,7 @@ import com.bessson.casualthings.item.ModItems;
 import com.bessson.casualthings.recipe.ModRecipes;
 import com.bessson.casualthings.screen.ModScreenHandlers;
 import com.bessson.casualthings.villager.ModVillagers;
+import com.bessson.casualthings.world.gen.ModWorldGeneration;
 import com.bessson.util.ModLootTableModifiers;
 import com.bessson.util.ModTrades;
 import net.fabricmc.api.ModInitializer;
@@ -38,6 +40,8 @@ public class CasualThings implements ModInitializer {
 		ModTrades.modTrades();
 		//自定义村民职业
 		ModVillagers.registerVillagers();
+
+		ModWorldGeneration.generateModWorldGen();
 
 		FuelRegistry.INSTANCE.add(ModItems.CHICKEN_SKIN,2000);
 
